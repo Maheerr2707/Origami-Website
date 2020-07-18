@@ -1,0 +1,29 @@
+h1{color:red;
+    padding-left:30px;
+}
+
+.header *{
+    border : solid;
+}
+.header{
+    background-color:black;
+    display:flex;
+    justify-content:space-between
+}
+
+.Menu{
+  background-color:grey;
+}
+
+.Grid{
+    flex-shrink : 3;
+    justify-content:space-between
+}
+
+a:link{
+    color:red;
+}
+
+a:visited{
+    color:#FF5733;
+}
